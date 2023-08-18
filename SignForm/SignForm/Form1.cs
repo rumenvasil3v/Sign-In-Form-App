@@ -39,7 +39,7 @@ namespace SignForm
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-            lblHello.Text = "Text has been Canceled";
+            lblHello.Text = "Text has been Canceled!";
         }
     }
 }
